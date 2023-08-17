@@ -10,6 +10,6 @@ An index of academic programs completed in Java.
 
 **University Index** - A University system that defines a person, course, student, and professor class.
 
-**Wind Chill** - A GUI-based Windchill Calculator using the Swing framework. The formula used is, windchillTemperature = 0.081 * (t - 91.4) * (3.71 * Math.sqrt(v) + 5.81 - 0.25 * v) + 91.4, where t is the actual air temperature in Fahrenheit and v is the wind speed in mph.
+**Wind Chill** - A GUI-based Windchill Calculator using the Swing framework. The formula used is, *windchillTemperature = 0.081 * (t - 91.4) * (3.71 * Math.sqrt(v) + 5.81 - 0.25 * v) + 91.4*, where t is the actual air temperature in Fahrenheit and v is the wind speed in mph.
 
 **Worker Runner** - Defines and tests a hierarchy of worker-related classes.
