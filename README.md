@@ -1,4 +1,4 @@
-# java-index
+# java-Index
 
 An index of academic programs completed in Java.
 
